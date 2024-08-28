@@ -4,17 +4,17 @@
 export TZ=Asia/Jakarta
 
 #Export Configuration
-export romcuy=""
-export dcdnm=""
+export romcuy="OrionOS"
+export dcdnm="RMX1901"
 export botuname=""
-export id_ch=""
-export id_owner=""
-export btoken=""
-export lmfests=""
-export blmfests=""
-export admfests=""
-export badmfests=""
-export jembod=""
+export id_ch="-1001983626693"
+export id_owner="6138712484"
+export btoken="Shrav1_bot"
+export lmfests="https://github.com/sksayz5/local_manifests"
+export blmfests="main"
+export admfests="https://github.com/OrionOS-prjkt/android -b 14.0 --git-lfs"
+export badmfests="14.0"
+export jembod="mka space"
 
 #Notify with Telegram Function
 stm(){
