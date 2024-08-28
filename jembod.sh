@@ -6,10 +6,10 @@ export TZ=Asia/Jakarta
 #Export Configuration
 export romcuy="OrionOS"
 export dcdnm="RMX1901"
-export botuname=""
+export botuname="Shrav1_bot"
 export id_ch="-1001983626693"
 export id_owner="6138712484"
-export btoken="Shrav1_bot"
+export btoken="6268171294:AAGBIBXu3gEQeegjB99FUpLFJrDzp9zr22E"
 export lmfests="https://github.com/sksayz5/local_manifests"
 export blmfests="main"
 export admfests="https://github.com/OrionOS-prjkt/android -b 14.0 --git-lfs"
